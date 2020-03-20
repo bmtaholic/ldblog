@@ -1,0 +1,4 @@
+2020-02-26 21:04:37.591  INFO 3916 --- [restartedMain] com.fwh.blog.BlogApplication             : Starting BlogApplication on DESKTOP-A08S0AG with PID 3916 (F:\blog\target\classes started by 92585 in F:\blog)
+2020-02-26 21:04:37.592  INFO 3916 --- [restartedMain] com.fwh.blog.BlogApplication             : The following profiles are active: pro
+2020-02-26 21:04:40.848  WARN 3916 --- [restartedMain] .t.AbstractTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2020-02-26 21:04:41.352  INFO 3916 --- [restartedMain] com.fwh.blog.BlogApplication             : Started BlogApplication in 4.231 seconds (JVM running for 5.206)
